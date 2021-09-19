@@ -1,0 +1,27 @@
+
+################################################################################################################################################
+Starting Execution:	[1 out of 3] test cases in the current suite
+Test Method:		[AdminPanelTest.AdminPanelFaqTest.faqCatFunctions]
+################################################################################################################################################
+[ReportManager] File Action [CreateFile] successfully performed. With the following test data [Target Folder: "allure-results//screenshots/20210916-124843", Target File: "\1631789378356_faqCatFunctions.gif"]. @16-09-2021 12:49:38.0450 PM
+[ReportManager] Element Action [Click] successfully performed. With the following test data [payment أقسام الأسئلة الشائعة]. @16-09-2021 12:49:40.0984 PM
+[ReportManager] Element Action [Click] successfully performed. With the following test data [اضافة قسم جديد]. @16-09-2021 12:49:45.0014 PM
+[ReportManager] Element Action [Type] successfully performed. With the following test data [0]. @16-09-2021 12:49:45.0917 PM
+[ReportManager] Element Action [Type] successfully performed. With the following test data [قسم أختبار]. @16-09-2021 12:49:46.0944 PM
+[ReportManager] Element Action [Type] successfully performed. With the following test data [Category Test]. @16-09-2021 12:49:47.0942 PM
+[ReportManager] Element Action [Click] successfully performed. With the following test data [Create]. @16-09-2021 12:49:51.0742 PM
+[ReportManager] Element Action [Type] successfully performed. With the following test data [قسم أختبار]. @16-09-2021 12:49:52.0747 PM
+[ReportManager] Element Action [Click] successfully performed. With the following test data [TOGGLE DROPDOWN]. @16-09-2021 12:49:54.0469 PM
+[ReportManager] Element Action [Click] successfully performed. With the following test data [تعديل]. @16-09-2021 12:49:58.0439 PM
+[ReportManager] Element Action [Type] successfully performed. With the following test data [تعديل قسم أختبار]. @16-09-2021 12:49:59.0468 PM
+[ReportManager] Element Action [Type] successfully performed. With the following test data [Edited English Name]. @16-09-2021 12:50:00.0537 PM
+[ReportManager] Element Action [Click] successfully performed. With the following test data [Save]. @16-09-2021 12:50:04.0106 PM
+[ReportManager] Element Action [Type] successfully performed. With the following test data [تعديل قسم أختبار]. @16-09-2021 12:50:05.0236 PM
+[ReportManager] Element Action [Click] successfully performed. With the following test data [TOGGLE DROPDOWN]. @16-09-2021 12:50:06.0873 PM
+[ReportManager] Element Action [Click] successfully performed. With the following test data [التفاصيل]. @16-09-2021 12:50:10.0654 PM
+[ReportManager] Assertion [ValidateEquals] PASSED. Expected [تعديل قسم أختبار] and Actual [تعديل قسم أختبار]. Comparison Type [EQUALS]. Validation Type [POSITIVE]. @16-09-2021 12:50:10.0732 PM
+[ReportManager] Assertion [ValidateEquals] PASSED. Expected [Edited English Name] and Actual [Edited English Name]. Comparison Type [EQUALS]. Validation Type [POSITIVE]. @16-09-2021 12:50:10.0733 PM
+[ReportManager] Target URL: [https://thecontrato.com/office/faqcategory] @16-09-2021 12:50:10.0733 PM
+[ReportManager] Initial URL: [https://thecontrato.com/office/faqcategory/details/37] @16-09-2021 12:50:10.0795 PM
+[ReportManager] Browser Action [NavigateToURL] successfully performed. With the following test data [https://thecontrato.com/office/faqcategory]. @16-09-2021 12:50:13.0196 PM
+[ReportManager] Successfully created attachment [Animated Gif - faqCatFunctions] @16-09-2021 12:50:13.0263 PM

@@ -1,0 +1,13 @@
+[ReportManager] File Action [GetAbsolutePath] successfully performed. With the following test data [Relative Folder Path: "target/downloadedFiles/"]. @16-09-2021 12:48:45.0397 PM
+[ReportManager] Attempting to run locally on: [Windows-64], [GoogleChrome]. @16-09-2021 12:48:45.0560 PM
+[ReportManager] Identifying OS/Driver combination and selecting the correct driver version automatically. Please note that if a new driver executable will be downloaded it may take some time... @16-09-2021 12:48:45.0566 PM
+[ReportManager] Successfully Opened Google Chrome. @16-09-2021 12:48:49.0410 PM
+[ReportManager] Target URL: [https://thecontrato.com/] @16-09-2021 12:48:49.0453 PM
+[ReportManager] Initial URL: [data:,] @16-09-2021 12:48:49.0654 PM
+[ReportManager] File Action [CreateFile] successfully performed. With the following test data [Target Folder: "allure-results//screenshots/20210916-124843", Target File: "\1631789340330_beforeClass.gif"]. @16-09-2021 12:49:01.0008 PM
+[ReportManager] Browser Action [NavigateToURL] successfully performed. With the following test data [https://thecontrato.com/]. @16-09-2021 12:49:01.0720 PM
+[ReportManager] Element Action [Click] successfully performed. With the following test data [تسجيل الدخول]. @16-09-2021 12:49:08.0834 PM
+[ReportManager] Element Action [Type] successfully performed. With the following test data [AdminGoContracts@GoContracts.com]. @16-09-2021 12:49:10.0198 PM
+[ReportManager] Element Action [Type] successfully performed. With the following test data [zXS#$QR?!4S&9rY]. @16-09-2021 12:49:11.0475 PM
+[ReportManager] Element Action [Click] successfully performed. With the following test data [تسجيل الدخول]. @16-09-2021 12:49:37.0199 PM
+[ReportManager] Successfully created attachment [Animated Gif - beforeClass] @16-09-2021 12:49:37.0206 PM

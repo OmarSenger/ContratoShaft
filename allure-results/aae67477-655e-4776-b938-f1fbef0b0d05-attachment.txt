@@ -1,0 +1,15 @@
+
+################################################################################################################################################
+Starting Execution:	[3 out of 3] test cases in the current suite
+Test Method:		[AdminPanelTest.AdminPanelFaqTest.deleteFaqCat]
+################################################################################################################################################
+[ReportManager] Target URL: [https://thecontrato.com/office/faqcategory] @16-09-2021 12:51:05.0394 PM
+[ReportManager] Initial URL: [https://thecontrato.com/office/faq] @16-09-2021 12:51:05.0451 PM
+[ReportManager] File Action [CreateFile] successfully performed. With the following test data [Target Folder: "allure-results//screenshots/20210916-124843", Target File: "\1631789467595_deleteFaqCat.gif"]. @16-09-2021 12:51:07.0700 PM
+[ReportManager] Browser Action [NavigateToURL] successfully performed. With the following test data [https://thecontrato.com/office/faqcategory]. @16-09-2021 12:51:08.0078 PM
+[ReportManager] Element Action [Type] successfully performed. With the following test data [تعديل قسم أختبار]. @16-09-2021 12:51:09.0158 PM
+[ReportManager] Element Action [Click] successfully performed. With the following test data [TOGGLE DROPDOWN]. @16-09-2021 12:51:10.0946 PM
+[ReportManager] Element Action [Click] successfully performed. With the following test data [حذف]. @16-09-2021 12:51:15.0039 PM
+[ReportManager] Element Action [Type] successfully performed. With the following test data [تعديل قسم أختبار]. @16-09-2021 12:51:16.0045 PM
+[ReportManager] Assertion [ValidateEquals] PASSED. Expected [لم يعثر على أية سجلات] and Actual [لم يعثر على أية سجلات]. Comparison Type [EQUALS]. Validation Type [POSITIVE]. @16-09-2021 12:51:16.0071 PM
+[ReportManager] Successfully created attachment [Animated Gif - deleteFaqCat] @16-09-2021 12:51:16.0074 PM
