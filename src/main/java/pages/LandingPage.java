@@ -12,7 +12,7 @@ public class LandingPage {
         this.driver = driver ;
     }
     
-    private By navigateToLoginPageButton = By.xpath("/html/body/header[1]/div/nav/ul/li[7]/a");
+    private By navigateToLoginPageButton = By.xpath("/html/body/header[1]/div/nav/ul/li[5]/a");
 
     public void accessLoginPage() {
     	ElementActions.click(driver, navigateToLoginPageButton);
